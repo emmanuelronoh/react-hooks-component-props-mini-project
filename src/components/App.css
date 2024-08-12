@@ -1,0 +1,27 @@
+/* src/components/App.css */
+
+.App {
+    /* Add some basic styles if needed */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  header {
+    /* Example styles for header */
+    background-color: #f0f0f0;
+    padding: 1rem;
+  }
+  
+  aside {
+    /* Example styles for aside */
+    background-color: #e0e0e0;
+    padding: 1rem;
+  }
+  
+  main {
+    /* Example styles for main */
+    flex: 1;
+    padding: 1rem;
+  }
+  
